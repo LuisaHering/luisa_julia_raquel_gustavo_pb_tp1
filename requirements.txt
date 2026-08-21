@@ -1,0 +1,11 @@
+# EDA
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+
+# API
+fastapi[standard]
+pyjwt
